@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>chore_zero</internal_name>
+        <label_cache>[{"name":"af1eedaa-e28f-4471-b600-ab7e3b32c2af.email","label":"1➛email","reference":"sys_email","reference_display":"Email","type":"reference","base_type":"reference"},{"name":"6e7df64e-97cf-45e9-9de4-5ae81eadc0fe.Table","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"6e7df64e-97cf-45e9-9de4-5ae81eadc0fe.Record","label":"1➛Record","reference":"task","reference_display":"Task","type":"document_id","base_type":"document_id"}]</label_cache>
+        <latest_snapshot>e1a372284f8fa3006a20e321a310c795</latest_snapshot>
+        <master_snapshot>e1a372284f8fa3006a20e321a310c795</master_snapshot>
+        <name>Chore Zero</name>
+        <outputs/>
+        <remote_trigger_id>7da372284f8fa3006a20e321a310c7d8</remote_trigger_id>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-10 23:01:15</sys_created_on>
+        <sys_id>5af70fa34ffa23006a20e321a310c740</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Chore Zero</sys_name>
+        <sys_package display_value="ChoresZero" source="x_226986_choreszer">7458129b4f3223006a20e321a310c7c8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ChoresZero">7458129b4f3223006a20e321a310c7c8</sys_scope>
+        <sys_update_name>sys_hub_flow_5af70fa34ffa23006a20e321a310c740</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-14 00:06:24</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=5af70fa34ffa23006a20e321a310c740"/>
+    <sys_variable_value action="delete_multiple" query="document_key=5af70fa34ffa23006a20e321a310c740"/>
+</record_update>
